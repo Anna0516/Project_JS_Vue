@@ -18,14 +18,3 @@
     "vue/html-indent": "off"
   }
 }
-
-/*"vue/html-self-closing": [
-      "warn",
-      {
-        "html": {
-          "component": "always",
-          "normal": "always",
-          "void": "always"
-        }
-      }
-    ],*/
